@@ -7,7 +7,7 @@
 export default {
     data() {
         return {
-            message: 'Hello World'
+            message: 'Welcome to my World '
         }
     }
 };
